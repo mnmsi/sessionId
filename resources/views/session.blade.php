@@ -1,0 +1,1 @@
+{{ Session::put('name', 'Saiful') }}
